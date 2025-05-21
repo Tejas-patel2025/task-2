@@ -60,13 +60,14 @@ body {
 
 .faq-question {
   display:flex;
+  font-size: 0.75rem;
   justify-content: space-between;
   align-items: center;
   cursor: pointer;
 }
 
-.faq-question h2:hover {
-  font-size: 1rem;
+.faq-question h2 {
+  font-size: 0.85rem;
   font-weight: bold;
   color: #2c0b48;
   margin-right: 1rem;
